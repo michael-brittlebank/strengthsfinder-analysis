@@ -1,0 +1,211 @@
+,id,name,top_ten,top_theme
+0,1,28,Achiever,Executing
+1,2,28,Competition,Influencing
+2,3,28,Strategic,Strategic Thinking
+3,4,28,Relator,Relationship Building
+4,5,28,Learner,Strategic Thinking
+5,6,28,Input,Strategic Thinking
+6,7,28,Focus,Executing
+7,8,28,Activator,Influencing
+8,9,28,Maximizer,Influencing
+9,10,28,Command,Influencing
+10,11,14,Strategic,Strategic Thinking
+11,12,14,Input,Strategic Thinking
+12,13,14,Arranger,Executing
+13,14,14,Relator,Relationship Building
+14,15,14,Responsibility,Executing
+15,16,14,Communication,Influencing
+16,17,14,Learner,Strategic Thinking
+17,18,14,Includer,Relationship Building
+18,19,14,Activator,Influencing
+19,20,14,Belief,Executing
+20,21,29,Harmony,Relationship Building
+21,22,29,Relator,Relationship Building
+22,23,29,Responsibility,Executing
+23,24,29,Consistency,Executing
+24,25,29,Restorative,Executing
+25,26,29,Empathy,Relationship Building
+26,27,29,Discipline,Executing
+27,28,29,Futuristic,Strategic Thinking
+28,29,29,Adaptability,Relationship Building
+29,30,29,Intellection,Strategic Thinking
+30,31,30,Activator,Influencing
+31,32,30,Ideation,Strategic Thinking
+32,33,30,Input,Strategic Thinking
+33,34,30,Arranger,Executing
+34,35,30,Command,Influencing
+35,36,30,Includer,Relationship Building
+36,37,30,Maximizer,Influencing
+37,38,30,Futuristic,Strategic Thinking
+38,39,30,Positivity,Relationship Building
+39,40,30,Strategic,Strategic Thinking
+40,41,27,Strategic,Strategic Thinking
+41,42,27,Learner,Strategic Thinking
+42,43,27,Context,Strategic Thinking
+43,44,27,Ideation,Strategic Thinking
+44,45,27,Connectedness,Relationship Building
+45,46,27,Analytical,Strategic Thinking
+46,47,27,Relator,Relationship Building
+47,48,27,Individualization,Relationship Building
+48,49,27,Arranger,Executing
+49,50,27,Self-Assurance,Influencing
+50,51,26,Learner,Strategic Thinking
+51,52,26,Individualization,Relationship Building
+52,53,26,Achiever,Executing
+53,54,26,Activator,Influencing
+54,55,26,Arranger,Executing
+55,56,26,Relator,Relationship Building
+56,57,26,Positivity,Relationship Building
+57,58,26,Maximizer,Influencing
+58,59,26,Belief,Executing
+59,60,26,Input,Strategic Thinking
+60,61,17,Strategic,Strategic Thinking
+61,62,17,Competition,Influencing
+62,63,17,Maximizer,Influencing
+63,64,17,Empathy,Relationship Building
+64,65,17,Individualization,Relationship Building
+65,66,17,Futuristic,Strategic Thinking
+66,67,17,Adaptability,Relationship Building
+67,68,17,Relator,Relationship Building
+68,69,17,Developer,Relationship Building
+69,70,17,Communication,Influencing
+70,71,25,Individualization,Relationship Building
+71,72,25,Strategic,Strategic Thinking
+72,73,25,Learner,Strategic Thinking
+73,74,25,Achiever,Executing
+74,75,25,Futuristic,Strategic Thinking
+75,76,25,Arranger,Executing
+76,77,25,Developer,Relationship Building
+77,78,25,Input,Strategic Thinking
+78,79,25,Relator,Relationship Building
+79,80,25,Self-Assurance,Influencing
+80,81,32,Connectedness,Relationship Building
+81,82,32,Learner,Strategic Thinking
+82,83,32,Ideation,Strategic Thinking
+83,84,32,Strategic,Strategic Thinking
+84,85,32,Intellection,Strategic Thinking
+85,86,32,Developer,Relationship Building
+86,87,32,Adaptability,Relationship Building
+87,88,32,Maximizer,Influencing
+88,89,32,Arranger,Executing
+89,90,32,Futuristic,Strategic Thinking
+90,91,31,Learner,Strategic Thinking
+91,92,31,Relator,Relationship Building
+92,93,31,Restorative,Executing
+93,94,31,Empathy,Relationship Building
+94,95,31,Intellection,Strategic Thinking
+95,96,31,Strategic,Strategic Thinking
+96,97,31,Input,Strategic Thinking
+97,98,31,Achiever,Executing
+98,99,31,Responsibility,Executing
+99,100,31,Connectedness,Relationship Building
+100,101,15,Individualization,Relationship Building
+101,102,15,Ideation,Strategic Thinking
+102,103,15,Strategic,Strategic Thinking
+103,104,15,Input,Strategic Thinking
+104,105,15,Connectedness,Relationship Building
+110,111,18,Intellection,Strategic Thinking
+111,112,18,Connectedness,Relationship Building
+112,113,18,Maximizer,Influencing
+113,114,18,Relator,Relationship Building
+114,115,18,Learner,Strategic Thinking
+115,116,18,Futuristic,Strategic Thinking
+116,117,18,Developer,Relationship Building
+117,118,18,Achiever,Executing
+118,119,18,Arranger,Executing
+119,120,18,Individualization,Relationship Building
+120,121,24,Relator,Relationship Building
+121,122,24,Achiever,Executing
+122,123,24,Maximizer,Influencing
+123,124,24,Individualization,Relationship Building
+124,125,24,Responsibility,Executing
+125,126,24,Arranger,Executing
+126,127,24,Significance,Influencing
+127,128,24,Learner,Strategic Thinking
+128,129,24,Activator,Influencing
+129,130,24,Focus,Executing
+130,131,16,Relator,Relationship Building
+131,132,16,Strategic,Strategic Thinking
+132,133,16,Competition,Influencing
+133,134,16,Ideation,Strategic Thinking
+134,135,16,Maximizer,Influencing
+140,141,11,Self-Assurance,Influencing
+141,142,11,Activator,Influencing
+142,143,11,Futuristic,Strategic Thinking
+143,144,11,Individualization,Relationship Building
+144,145,11,Command,Influencing
+145,146,11,Restorative,Executing
+146,147,11,Significance,Influencing
+147,148,11,Context,Strategic Thinking
+148,149,11,Ideation,Strategic Thinking
+149,150,11,Developer,Relationship Building
+150,151,22,Discipline,Executing
+151,152,22,Woo,Influencing
+152,153,22,Communication,Influencing
+153,154,22,Analytical,Strategic Thinking
+154,155,22,Futuristic,Strategic Thinking
+155,156,22,Individualization,Relationship Building
+156,157,22,Relator,Relationship Building
+157,158,22,Responsibility,Executing
+158,159,22,Focus,Executing
+159,160,22,Positivity,Relationship Building
+160,161,13,Communication,Influencing
+161,162,13,Significance,Influencing
+162,163,13,Woo,Influencing
+163,164,13,Positivity,Relationship Building
+164,165,13,Individualization,Relationship Building
+165,166,13,Arranger,Executing
+166,167,13,Relator,Relationship Building
+167,168,13,Harmony,Relationship Building
+168,169,13,Developer,Relationship Building
+169,170,13,Focus,Executing
+170,171,20,Individualization,Relationship Building
+171,172,20,Activator,Influencing
+172,173,20,Ideation,Strategic Thinking
+173,174,20,Connectedness,Relationship Building
+174,175,20,Futuristic,Strategic Thinking
+175,176,20,Strategic,Strategic Thinking
+176,177,20,Learner,Strategic Thinking
+177,178,20,Achiever,Executing
+178,179,20,Adaptability,Relationship Building
+179,180,20,Arranger,Executing
+180,181,19,Achiever,Executing
+181,182,19,Strategic,Strategic Thinking
+182,183,19,Maximizer,Influencing
+183,184,19,Connectedness,Relationship Building
+184,185,19,Individualization,Relationship Building
+185,186,19,Activator,Influencing
+186,187,19,Positivity,Relationship Building
+187,188,19,Arranger,Executing
+188,189,19,Intellection,Strategic Thinking
+189,190,19,Learner,Strategic Thinking
+190,191,12,Maximizer,Influencing
+191,192,12,Futuristic,Strategic Thinking
+192,193,12,Learner,Strategic Thinking
+193,194,12,Strategic,Strategic Thinking
+194,195,12,Activator,Influencing
+195,196,12,Connectedness,Relationship Building
+196,197,12,Relator,Relationship Building
+197,198,12,Arranger,Executing
+198,199,12,Ideation,Strategic Thinking
+199,200,12,Input,Strategic Thinking
+200,201,23,Individualization,Relationship Building
+201,202,23,Responsibility,Executing
+202,203,23,Futuristic,Strategic Thinking
+203,204,23,Analytical,Strategic Thinking
+204,205,23,Arranger,Executing
+205,206,23,Discipline,Executing
+206,207,23,Input,Strategic Thinking
+207,208,23,Relator,Relationship Building
+208,209,23,Learner,Strategic Thinking
+209,210,23,Developer,Relationship Building
+210,211,21,Context,Strategic Thinking
+211,212,21,Ideation,Strategic Thinking
+212,213,21,Input,Strategic Thinking
+213,214,21,Individualization,Relationship Building
+214,215,21,Learner,Strategic Thinking
+215,216,21,Intellection,Strategic Thinking
+216,217,21,Connectedness,Relationship Building
+217,218,21,Analytical,Strategic Thinking
+218,219,21,Relator,Relationship Building
+219,220,21,Positivity,Relationship Building
